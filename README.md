@@ -1,6 +1,6 @@
 # Player-audio
 
-Application for playing sound in the browser.
+Application for playing sound in a browser.
 
 ## Programming languages:
 
